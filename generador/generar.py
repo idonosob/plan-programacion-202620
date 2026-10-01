@@ -178,9 +178,9 @@ LEYENDA_CAMBIOS = ('<span class="lg" role="listitem"><span class="sw chg"></span
 
 PIE_ACTUAL = ("Ambos paralelos cubren el mismo contenido y rinden las evaluaciones el mismo jueves. En el paralelo del otro profesor la ayudantía es el <b>lunes</b> (inicio de semana), por lo que repasa el contenido de la semana anterior; por eso su numeración de ayudantías va corrida respecto a la del viernes. Semana 1: ambos usan la ayudantía como clase. El lunes 12-oct es feriado (Encuentro de Dos Mundos), sin ayudantía. El miércoles 09-dic, en el horario del otro profesor, se destina a la toma de exámenes pendientes (feriado del 08-dic).")
 
-PIE_PROP = ("Se mantienen las reglas acordadas: evaluaciones solo los jueves, a lo más una prueba corta por semana, ninguna en semana de cátedra, la de arreglos después del receso de autocuidado y archivos como primera clase tras la Cátedra 1. "
+PIE_PROP = ("Se mantienen las reglas acordadas: evaluaciones solo los jueves, a lo más una prueba corta por semana, ninguna en semana de cátedra, la de arreglos después del receso de autocuidado y archivos evaluado en la Cátedra 2. "
   "Supuesto: la ayudantía del viernes 02-oct (C1) se realiza, como preparación para la Cátedra 1. "
-  "Si en cambio se prefiere mantener la Cátedra 2 el 12-nov, arreglos queda con solo 5 clases antes de ella.")
+  "Si en cambio se prefiere mantener la Cátedra 2 el 12-nov, arreglos queda con solo 6 clases antes de ella.")
 
 CAMBIOS_HTML = """
 <section class="cambios" aria-label="Resumen de cambios">
@@ -188,10 +188,9 @@ CAMBIOS_HTML = """
     <h3>Qué cambia</h3>
     <ul>
       <li><b>Suspendidas</b> la clase del jue 01-oct y toda la semana del 05-oct (clases y ayudantías) en ambos paralelos.</li>
-      <li><b>Cátedra 1 → jue 15-oct.</b> Antes, una clase de repaso (mar 13 / mié 14).</li>
-      <li><b>Archivos</b> sigue siendo la primera clase tras la Cátedra 1 (mar 27 / mié 28-oct).</li>
-      <li><b>Cátedra 2 → jue 19-nov</b> para repartir la pérdida entre las dos unidades: arreglos queda en 7 clases y subprogramas en 6.</li>
-      <li><b>Fusiones:</b> vectores creación + recorrido; búsqueda + ordenamiento; funciones que reciben + retornan arreglos; descomposición modular + buenas prácticas/recursión.</li>
+      <li><b>Cátedra 1 → jue 15-oct.</b> En la clase previa (mar 13 / mié 14) se adelanta <b>lectura/escritura de archivos</b>, que se evalúa en la Cátedra 2; no hay clase de repaso.</li>
+      <li><b>Cátedra 2 → jue 19-nov</b> para repartir la pérdida entre las dos unidades: arreglos queda en 8 clases (con archivos) y subprogramas en 6.</li>
+      <li><b>Fusiones:</b> vectores creación + recorrido; funciones que reciben + retornan arreglos; descomposición modular + buenas prácticas/recursión. Búsqueda y ordenamiento quedan en clases separadas.</li>
       <li><b>Pruebas cortas</b> PC3 a PC6 se corren a un jueves posterior; siguen siendo 6.</li>
     </ul>
   </div>
