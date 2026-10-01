@@ -1,0 +1,715 @@
+[
+ {
+  "sem": 1,
+  "label": "24 ago",
+  "cells": [
+   {
+    "date": "25 ago",
+    "kind": "clase",
+    "code": "C1",
+    "text": "Intro: conceptos, arquitectura, razonamiento lógico"
+   },
+   {
+    "date": "27 ago",
+    "kind": "clase",
+    "code": "C2",
+    "text": "Algoritmo · variables · tipos"
+   },
+   {
+    "date": "28 ago",
+    "kind": "clase",
+    "code": "C3",
+    "text": "Operadores · E/S",
+    "note": "viernes como clase"
+   },
+   {
+    "date": "24 ago",
+    "kind": "clase",
+    "code": "C1",
+    "text": "Intro: conceptos, arquitectura, razonamiento lógico",
+    "note": "lunes como clase"
+   },
+   {
+    "date": "26 ago",
+    "kind": "clase",
+    "code": "C2",
+    "text": "Algoritmo · variables · tipos"
+   },
+   {
+    "date": "27 ago",
+    "kind": "clase",
+    "code": "C3",
+    "text": "Operadores · E/S"
+   }
+  ]
+ },
+ {
+  "sem": 2,
+  "label": "31 ago",
+  "cells": [
+   {
+    "date": "01 sep",
+    "kind": "clase",
+    "code": "C4",
+    "text": "Condicionales (if / elif)"
+   },
+   {
+    "date": "03 sep",
+    "kind": "clase",
+    "code": "C5",
+    "text": "match · alcance de variables"
+   },
+   {
+    "date": "04 sep",
+    "kind": "ayud",
+    "code": "A1",
+    "text": "variables, operadores y condicionales"
+   },
+   {
+    "date": "31 ago",
+    "kind": "ayud",
+    "code": "A1",
+    "text": "variables, tipos, operadores y E/S"
+   },
+   {
+    "date": "02 sep",
+    "kind": "clase",
+    "code": "C4",
+    "text": "Condicionales (if / elif)"
+   },
+   {
+    "date": "03 sep",
+    "kind": "clase",
+    "code": "C5",
+    "text": "match · alcance de variables"
+   }
+  ]
+ },
+ {
+  "sem": 3,
+  "label": "07 sep",
+  "cells": [
+   {
+    "date": "08 sep",
+    "kind": "clase",
+    "code": "C6",
+    "text": "Ciclo while · contador / acumulador"
+   },
+   {
+    "date": "10 sep",
+    "kind": "clase",
+    "code": "C7",
+    "text": "Ciclo for · anidados · bandera",
+    "pc": [
+     "PC1",
+     "1",
+     "variables, operadores, E/S"
+    ]
+   },
+   {
+    "date": "11 sep",
+    "kind": "ayud",
+    "code": "A2",
+    "text": "ciclos while y for"
+   },
+   {
+    "date": "07 sep",
+    "kind": "ayud",
+    "code": "A2",
+    "text": "condicionales y alcance"
+   },
+   {
+    "date": "09 sep",
+    "kind": "clase",
+    "code": "C6",
+    "text": "Ciclo while · contador / acumulador"
+   },
+   {
+    "date": "10 sep",
+    "kind": "clase",
+    "code": "C7",
+    "text": "Ciclo for · anidados · bandera",
+    "pc": [
+     "PC1",
+     "1",
+     "variables, operadores, E/S"
+    ]
+   }
+  ]
+ },
+ {
+  "sem": 4,
+  "label": "14 sep",
+  "full": {
+   "kind": "libre",
+   "text": "Receso — Fiestas Patrias"
+  }
+ },
+ {
+  "sem": 5,
+  "label": "21 sep",
+  "cells": [
+   {
+    "date": "22 sep",
+    "kind": "clase",
+    "code": "C8",
+    "text": "do-while · break/continue · validación"
+   },
+   {
+    "date": "24 sep",
+    "kind": "clase",
+    "code": "C9",
+    "text": "Problemas matemáticos",
+    "pc": [
+     "PC2",
+     "1",
+     "condicionales y ciclos"
+    ]
+   },
+   {
+    "date": "25 sep",
+    "kind": "ayud",
+    "code": "A3",
+    "text": "validación y problemas matemáticos"
+   },
+   {
+    "date": "21 sep",
+    "kind": "ayud",
+    "code": "A3",
+    "text": "ciclos while y for"
+   },
+   {
+    "date": "23 sep",
+    "kind": "clase",
+    "code": "C8",
+    "text": "do-while · break/continue · validación"
+   },
+   {
+    "date": "24 sep",
+    "kind": "clase",
+    "code": "C9",
+    "text": "Problemas matemáticos",
+    "pc": [
+     "PC2",
+     "1",
+     "condicionales y ciclos"
+    ]
+   }
+  ]
+ },
+ {
+  "sem": 6,
+  "label": "28 sep",
+  "cells": [
+   {
+    "date": "29 sep",
+    "kind": "clase",
+    "code": "C10",
+    "text": "Integración y repaso"
+   },
+   {
+    "date": "01 oct",
+    "kind": "cat",
+    "name": "Cátedra 1",
+    "sub": "Áreas 1–3 · sin archivos"
+   },
+   {
+    "date": "02 oct",
+    "kind": "ayud",
+    "code": "A4",
+    "text": "integradores de elementos básicos"
+   },
+   {
+    "date": "28 sep",
+    "kind": "ayud",
+    "code": "A4",
+    "text": "validación y problemas matemáticos"
+   },
+   {
+    "date": "30 sep",
+    "kind": "clase",
+    "code": "C10",
+    "text": "Integración y repaso"
+   },
+   {
+    "date": "01 oct",
+    "kind": "cat",
+    "name": "Cátedra 1",
+    "sub": "Áreas 1–3 · sin archivos"
+   }
+  ]
+ },
+ {
+  "sem": 7,
+  "label": "05 oct",
+  "cells": [
+   {
+    "date": "06 oct",
+    "kind": "clase",
+    "code": "C11",
+    "text": "📄 Lectura / escritura de archivos"
+   },
+   {
+    "date": "08 oct",
+    "kind": "clase",
+    "code": "C12",
+    "text": "Vectores: creación, acceso, despliegue"
+   },
+   {
+    "date": "09 oct",
+    "kind": "ayud",
+    "code": "A5",
+    "text": "archivos y creación de vectores"
+   },
+   {
+    "date": "05 oct",
+    "kind": "ayud",
+    "code": "A5",
+    "text": "integradores de elementos básicos"
+   },
+   {
+    "date": "07 oct",
+    "kind": "clase",
+    "code": "C11",
+    "text": "📄 Lectura / escritura de archivos"
+   },
+   {
+    "date": "08 oct",
+    "kind": "clase",
+    "code": "C12",
+    "text": "Vectores: creación, acceso, despliegue"
+   }
+  ]
+ },
+ {
+  "sem": 8,
+  "label": "12 oct",
+  "cells": [
+   {
+    "date": "13 oct",
+    "kind": "clase",
+    "code": "C13",
+    "text": "Recorrido · operaciones (suma/prom/máx/mín)"
+   },
+   {
+    "date": "15 oct",
+    "kind": "clase",
+    "code": "C14",
+    "text": "Búsqueda secuencial y binaria"
+   },
+   {
+    "date": "16 oct",
+    "kind": "ayud",
+    "code": "A6",
+    "text": "recorrido, operaciones y búsqueda"
+   },
+   {
+    "date": "12 oct",
+    "kind": "libre",
+    "text": "Feriado — Encuentro de Dos Mundos",
+    "note": "lunes: sin ayudantía"
+   },
+   {
+    "date": "14 oct",
+    "kind": "clase",
+    "code": "C13",
+    "text": "Recorrido · operaciones (suma/prom/máx/mín)"
+   },
+   {
+    "date": "15 oct",
+    "kind": "clase",
+    "code": "C14",
+    "text": "Búsqueda secuencial y binaria"
+   }
+  ]
+ },
+ {
+  "sem": 9,
+  "label": "19 oct",
+  "full": {
+   "kind": "libre",
+   "text": "Semana de autocuidado estudiantil"
+  }
+ },
+ {
+  "sem": 10,
+  "label": "26 oct",
+  "cells": [
+   {
+    "date": "27 oct",
+    "kind": "clase",
+    "code": "C15",
+    "text": "Ordenamiento (burbuja y selección)"
+   },
+   {
+    "date": "29 oct",
+    "kind": "clase",
+    "code": "C16",
+    "text": "Inserción y eliminación",
+    "pc": [
+     "PC3",
+     "2",
+     "vectores, búsqueda y orden · trazado"
+    ]
+   },
+   {
+    "date": "30 oct",
+    "kind": "ayud",
+    "code": "A7",
+    "text": "ordenamiento e inserción/eliminación"
+   },
+   {
+    "date": "26 oct",
+    "kind": "ayud",
+    "code": "A6",
+    "text": "archivos, creación, recorrido y búsqueda"
+   },
+   {
+    "date": "28 oct",
+    "kind": "clase",
+    "code": "C15",
+    "text": "Ordenamiento (burbuja y selección)"
+   },
+   {
+    "date": "29 oct",
+    "kind": "clase",
+    "code": "C16",
+    "text": "Inserción y eliminación",
+    "pc": [
+     "PC3",
+     "2",
+     "vectores, búsqueda y orden · trazado"
+    ]
+   }
+  ]
+ },
+ {
+  "sem": 11,
+  "label": "02 nov",
+  "cells": [
+   {
+    "date": "03 nov",
+    "kind": "clase",
+    "code": "C17",
+    "text": "Vectores / listas paralelas"
+   },
+   {
+    "date": "05 nov",
+    "kind": "clase",
+    "code": "C18",
+    "text": "Matrices (2D)"
+   },
+   {
+    "date": "06 nov",
+    "kind": "ayud",
+    "code": "A8",
+    "text": "vectores paralelas y matrices"
+   },
+   {
+    "date": "02 nov",
+    "kind": "ayud",
+    "code": "A7",
+    "text": "ordenamiento e inserción/eliminación"
+   },
+   {
+    "date": "04 nov",
+    "kind": "clase",
+    "code": "C17",
+    "text": "Vectores / listas paralelas"
+   },
+   {
+    "date": "05 nov",
+    "kind": "clase",
+    "code": "C18",
+    "text": "Matrices (2D)"
+   }
+  ]
+ },
+ {
+  "sem": 12,
+  "label": "09 nov",
+  "cells": [
+   {
+    "date": "10 nov",
+    "kind": "clase",
+    "code": "C19",
+    "text": "Integración y repaso de arreglos"
+   },
+   {
+    "date": "12 nov",
+    "kind": "cat",
+    "name": "Cátedra 2",
+    "sub": "Área 5 + archivos"
+   },
+   {
+    "date": "13 nov",
+    "kind": "ayud",
+    "code": "A9",
+    "text": "integradores de arreglos y archivos"
+   },
+   {
+    "date": "09 nov",
+    "kind": "ayud",
+    "code": "A8",
+    "text": "vectores paralelas y matrices"
+   },
+   {
+    "date": "11 nov",
+    "kind": "clase",
+    "code": "C19",
+    "text": "Integración y repaso de arreglos"
+   },
+   {
+    "date": "12 nov",
+    "kind": "cat",
+    "name": "Cátedra 2",
+    "sub": "Área 5 + archivos"
+   }
+  ]
+ },
+ {
+  "sem": 13,
+  "label": "16 nov",
+  "cells": [
+   {
+    "date": "17 nov",
+    "kind": "clase",
+    "code": "C20",
+    "text": "Funciones: def, retorno y parámetros"
+   },
+   {
+    "date": "19 nov",
+    "kind": "clase",
+    "code": "C21",
+    "text": "Traspaso · alcance · descomponer",
+    "pc": [
+     "PC4",
+     "3",
+     "funciones"
+    ]
+   },
+   {
+    "date": "20 nov",
+    "kind": "ayud",
+    "code": "A10",
+    "text": "funciones, parámetros y alcance"
+   },
+   {
+    "date": "16 nov",
+    "kind": "ayud",
+    "code": "A9",
+    "text": "integradores de arreglos y archivos"
+   },
+   {
+    "date": "18 nov",
+    "kind": "clase",
+    "code": "C20",
+    "text": "Funciones: def, retorno y parámetros"
+   },
+   {
+    "date": "19 nov",
+    "kind": "clase",
+    "code": "C21",
+    "text": "Traspaso · alcance · descomponer",
+    "pc": [
+     "PC4",
+     "3",
+     "funciones"
+    ]
+   }
+  ]
+ },
+ {
+  "sem": 14,
+  "label": "23 nov",
+  "cells": [
+   {
+    "date": "24 nov",
+    "kind": "clase",
+    "code": "C22",
+    "text": "Funciones con arreglos"
+   },
+   {
+    "date": "26 nov",
+    "kind": "clase",
+    "code": "C23",
+    "text": "Retornar arreglos · diseño modular",
+    "pc": [
+     "PC5",
+     "3",
+     "parámetros, alcance y arreglos"
+    ]
+   },
+   {
+    "date": "27 nov",
+    "kind": "ayud",
+    "code": "A11",
+    "text": "funciones sobre arreglos y modular"
+   },
+   {
+    "date": "23 nov",
+    "kind": "ayud",
+    "code": "A10",
+    "text": "funciones, parámetros y alcance"
+   },
+   {
+    "date": "25 nov",
+    "kind": "clase",
+    "code": "C22",
+    "text": "Funciones con arreglos"
+   },
+   {
+    "date": "26 nov",
+    "kind": "clase",
+    "code": "C23",
+    "text": "Retornar arreglos · diseño modular",
+    "pc": [
+     "PC5",
+     "3",
+     "parámetros, alcance y arreglos"
+    ]
+   }
+  ]
+ },
+ {
+  "sem": 15,
+  "label": "30 nov",
+  "cells": [
+   {
+    "date": "01 dic",
+    "kind": "clase",
+    "code": "C24",
+    "text": "Descomposición modular"
+   },
+   {
+    "date": "03 dic",
+    "kind": "clase",
+    "code": "C25",
+    "text": "Buenas prácticas · recursión",
+    "pc": [
+     "PC6",
+     "3",
+     "retornar arreglos y modular"
+    ]
+   },
+   {
+    "date": "04 dic",
+    "kind": "ayud",
+    "code": "A12",
+    "text": "descomposición modular y recursión"
+   },
+   {
+    "date": "30 nov",
+    "kind": "ayud",
+    "code": "A11",
+    "text": "funciones sobre arreglos y modular"
+   },
+   {
+    "date": "02 dic",
+    "kind": "clase",
+    "code": "C24",
+    "text": "Descomposición modular"
+   },
+   {
+    "date": "03 dic",
+    "kind": "clase",
+    "code": "C25",
+    "text": "Buenas prácticas · recursión",
+    "pc": [
+     "PC6",
+     "3",
+     "retornar arreglos y modular"
+    ]
+   }
+  ]
+ },
+ {
+  "sem": 16,
+  "label": "07 dic",
+  "cells": [
+   {
+    "date": "08 dic",
+    "kind": "libre",
+    "text": "Feriado — Inmaculada",
+    "note": "mié 09: exámenes pendientes"
+   },
+   {
+    "date": "10 dic",
+    "kind": "clase",
+    "code": "C26",
+    "text": "Proyecto integrador"
+   },
+   {
+    "date": "11 dic",
+    "kind": "ayud",
+    "code": "A13",
+    "text": "integradores de subprogramas · última"
+   },
+   {
+    "date": "07 dic",
+    "kind": "ayud",
+    "code": "A12",
+    "text": "descomposición modular y recursión"
+   },
+   {
+    "date": "09 dic",
+    "kind": "exam",
+    "text": "Exámenes pendientes"
+   },
+   {
+    "date": "10 dic",
+    "kind": "clase",
+    "code": "C26",
+    "text": "Proyecto integrador"
+   }
+  ]
+ },
+ {
+  "sem": 17,
+  "label": "14 dic",
+  "cells": [
+   {
+    "date": "15 dic",
+    "kind": "clase",
+    "code": "C27",
+    "text": "Repaso general y cierre"
+   },
+   {
+    "date": "17 dic",
+    "kind": "cat",
+    "name": "Cátedra 3",
+    "sub": "Área 4 · subprogramas"
+   },
+   {
+    "date": null,
+    "kind": "empty"
+   },
+   {
+    "date": "14 dic",
+    "kind": "ayud",
+    "code": "A13",
+    "text": "integradores de subprogramas · última"
+   },
+   {
+    "date": "16 dic",
+    "kind": "clase",
+    "code": "C27",
+    "text": "Repaso general y cierre"
+   },
+   {
+    "date": "17 dic",
+    "kind": "cat",
+    "name": "Cátedra 3",
+    "sub": "Área 4 · subprogramas"
+   }
+  ]
+ },
+ {
+  "sem": 18,
+  "label": "21 dic",
+  "full": {
+   "kind": "libre",
+   "text": "Semana de exámenes"
+  }
+ }
+]
